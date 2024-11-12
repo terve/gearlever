@@ -22,7 +22,7 @@ msgid "Gear Lever"
 msgstr ""
 
 #: data/it.mijorus.gearlever.desktop.in:4
-msgid "An utility to manage AppImages with ease!"
+msgid "A utility to manage AppImages with ease!"
 msgstr ""
 
 #: data/it.mijorus.gearlever.desktop.in:12

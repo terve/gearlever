@@ -1,4 +1,4 @@
-# Ukrainian translation for Gear Lever.
+# Finnish translation for Gear Lever.
 # Copyright (C) 2023 THE Gear Lever'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the Gear Lever package.
 # volkov <volkovissocool@gmail.com>, 2023.
@@ -19,11 +19,11 @@ msgstr ""
 
 #: data/it.mijorus.gearlever.desktop.in:3
 msgid "Gear Lever"
-msgstr "Vaihdevipu"
+msgstr "Gear Lever"
 
 #: data/it.mijorus.gearlever.desktop.in:4
 msgid "An utility to manage AppImages with ease!"
-msgstr "Apuohjelma hoitamaan Appimageita!"
+msgstr "Apuohjelma hoitamaan AppImageita!"
 
 #: data/it.mijorus.gearlever.desktop.in:12
 msgid "AppImage;"
@@ -93,7 +93,7 @@ msgstr "Sulje"
 
 #: src/AppDetails.py:433 src/AppDetails.py:453
 msgid "This app runs in the terminal"
-msgstr "Tämä sovellus toimii päätelaitteessa"
+msgstr "Tämä sovellus toimii päätteessä"
 
 #: src/AppDetails.py:435 src/AppDetails.py:450 src/AppDetails.py:456
 msgid "Launch"
@@ -122,7 +122,7 @@ msgstr ""
 
 #: src/AppDetails.py:734
 msgid "Website"
-msgstr "Website"
+msgstr "Webbisivu"
 
 #: src/AppDetails.py:734
 msgid "Add a website"
@@ -170,7 +170,7 @@ msgstr ""
 
 #: src/AppDetails.py:839
 msgid "Command line arguments"
-msgstr "Komentorivi perusteet"
+msgstr "Komentoriviperusteet"
 
 #: src/AppDetails.py:855
 msgid "Hash"
@@ -226,7 +226,7 @@ msgstr "Tarkista päivitykset"
 
 #: src/InstalledAppsList.py:49
 msgid "Filter installed applications"
-msgstr "Suodatin asennetut sovellukset"
+msgstr "Suodata asennetut sovellukset"
 
 #: src/InstalledAppsList.py:55
 msgid "Installed applications"
@@ -238,18 +238,18 @@ msgstr "Yleinen"
 
 #: src/preferences.py:32
 msgid "AppImage default location"
-msgstr "Appimage -oletuspaikka"
+msgstr "AppImage -oletuspaikka"
 
 #: src/preferences.py:41
 msgid "Show integrated AppImages outside the default folder"
-msgstr "Näytä integroidut AppImages oletuskansion ulkopuolella"
+msgstr "Näytä integroidut AppImaget oletuskansion ulkopuolella"
 
 #: src/preferences.py:43
 msgid ""
 "List AppImages that have been integrated into the system menu but are "
 "located outside the default folder"
 msgstr ""
-"Luettelo Appimages, jotka on integroitu järjestelmävalikkoon, mutta jotka "
+"Luetteloi AppImaget, jotka on integroitu järjestelmävalikkoon, mutta jotka "
 "sijaitsevat oletuskansion ulkopuolella"
 
 #: src/preferences.py:50
@@ -278,11 +278,11 @@ msgstr "Siirrä AppImages kohdekansioon"
 
 #: src/preferences.py:64
 msgid "Reduce disk usage"
-msgstr "Vähentää levyn käyttöä"
+msgstr "Vähennä levyn käyttöä"
 
 #: src/preferences.py:68
 msgid "Clone AppImages into the destination folder"
-msgstr "Kloonaa AppImages kohdekansioon"
+msgstr "Kloonaa AppImaget kohdekansioon"
 
 #: src/preferences.py:69
 msgid "Keep the original file and create a copy in the destination folder"
@@ -290,11 +290,11 @@ msgstr "Pidä alkuperäinen tiedosto ja luo kopio kohdekansioon"
 
 #: src/preferences.py:95
 msgid "Naming conventions"
-msgstr "Nimeä yleissopimukset"
+msgstr "Nimeämiskäytännöt"
 
 #: src/preferences.py:97
 msgid "Use executable name for integrated terminal apps"
-msgstr "Käytä suoritettavaa nimeä integroiduissa päätelaitteissa"
+msgstr "Käytä suoritettavaa nimeä integroiduille päätesovelluksille"
 
 #: src/preferences.py:99
 msgid ""
@@ -303,7 +303,7 @@ msgid ""
 "\n"
 "For example, \"golang_x86_64.appimage\" will be saved as \"go\""
 msgstr ""
-"Jos päätelaitteessa suoritetut sovellukset on käytössä, ne on nimetty "
+"Jos päätteessä suoritetut sovellukset on käytössä, ne on nimetty "
 "uudelleen suoritettavaksi.\n"
 " Sinun on lisättävä edellä mainittu kansio $ -polullesi manuaalisesti.\n"
 "\n"
@@ -345,11 +345,11 @@ msgstr "_Avaa lokitiedosto"
 
 #: src/gtk/main-menu.ui:14
 msgid "_Show tutorial"
-msgstr "_Näytä tutoriaali"
+msgstr "_Näytä opetusohjelma"
 
 #: src/gtk/main-menu.ui:18
 msgid "_About Gear lever"
-msgstr "_Tietoja Gear lever"
+msgstr "_Tietoja Gear leveristä"
 
 #: src/components/AppDetailsConflictModal.py:10
 #, python-brace-format
@@ -382,7 +382,7 @@ msgstr "Aloita"
 
 #: src/gtk/empty-list-placeholder.ui:30
 msgid "Drag and drop an AppImage here or click on the \"+\" icon."
-msgstr "Vedä ja pudota appimage täältä tai napsauta \"\" -kuvaketta."
+msgstr "Vedä ja pudota AppImage tänne tai napsauta \"\" -kuvaketta."
 
 #: src/gtk/empty-list-placeholder.ui:35
 msgid " If you don't see your apps, check if the selected folder is correct."
@@ -417,7 +417,7 @@ msgstr "Hei, tervetuloa Gear leveriin"
 
 #: src/gtk/tutorial/1.ui:30
 msgid "An app that helps you integrating AppImages into you system."
-msgstr "Sovellus, joka auttaa sinua integroimaan AppIrages -järjestelmään."
+msgstr "Sovellus, joka auttaa sinua integroimaan AppImaget järjestelmääsi."
 
 #: src/gtk/tutorial/1.ui:36
 msgid "Click \"Next\" to follow this tutorial."
@@ -425,20 +425,20 @@ msgstr "Napsauta \"Seuraava\" seurataksesi tätä opetusohjelmaa."
 
 #: src/gtk/tutorial/2.ui:19
 msgid "Set the AppImage location"
-msgstr "Aseta Appimage -sijainti"
+msgstr "Aseta AppImage -sijainti"
 
 #: src/gtk/tutorial/2.ui:28
 msgid ""
 "Gear lever groups all your AppImages into a specific folder and keeps them "
 "organized."
 msgstr ""
-"Vaihdevipu ryhmittelee kaikki AppIragit tiettyyn kansioon ja pitää ne "
+"Gear lever ryhmittelee kaikki AppImaget tiettyyn kansioon ja pitää ne "
 "järjestäytyneinä."
 
 #: src/gtk/tutorial/2.ui:33
 #, python-brace-format
 msgid "By default, AppImages are saved at: {location}"
-msgstr "Oletusarvoisesti AppImages tallennetaan: {location}"
+msgstr "Oletusarvoisesti AppImaget tallennetaan: {location}"
 
 #: src/gtk/tutorial/2.ui:47
 msgid "Change AppImage location"
@@ -477,7 +477,7 @@ msgstr "Kaikki tehty, mennään!"
 
 #: src/gtk/tutorial/last.ui:35
 msgid "Close tutorial"
-msgstr "Sulje tutoriaali"
+msgstr "Sulje opetusohjelma"
 
 #: src/models/AppListElement.py:19
 msgid "No description provided"
@@ -498,12 +498,12 @@ msgid ""
 "updated\n"
 "{el.name} ➔ {list_element.name}"
 msgstr ""
-"Ladattu Appimage ei ole samaa sovelluksen nimeä, eikä sitä voida päivittää\n"
+"Ladattu AppImage ei ole samaa sovelluksen nimeä, eikä sitä voida päivittää\n"
 " {el.name}  {list_element.name}"
 
 #: src/providers/AppImageProvider.py:631
 msgid "Running AppImages on NixOS requires appimage-run"
-msgstr "Appimagesin suorittaminen Nixosissa vaatii appIrage-runin"
+msgstr "AppImagesin suorittaminen NixOS:ssa vaatii appimage-runin"
 
 #: src/providers/AppImageProvider.py:646
 #, python-brace-format
@@ -521,7 +521,7 @@ msgstr ""
 " {url}"
 
 msgid "Updating"
-msgstr "Оновлюємо"
+msgstr "Päivitetään"
 
 msgid "Cannot load an untrusted AppImage"
-msgstr "Неможливо завантажити ненадійний AppImage"
+msgstr "Epäluotettavaa AppImagea ei voi ladata"
